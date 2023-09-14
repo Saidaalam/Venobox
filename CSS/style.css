@@ -1,0 +1,20 @@
+#container{
+   text-align: center;
+   margin-top: 18%;
+}
+
+#typing{
+   font-size: 35px;
+   font-family: cursive;
+   color: #064630;
+}
+
+.icon i {
+   height: 50px;
+   width: 50px;
+   background-color: #15796b;
+   text-align: center;
+   line-height: 50px;
+   border-radius: 50%;
+   color: #e3e3f0;
+}
